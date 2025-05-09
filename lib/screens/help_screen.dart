@@ -212,13 +212,13 @@ class HelpScreen extends StatelessWidget {
             _buildContactOption(
               icon: Icons.email_rounded,
               title: 'Par email',
-              value: 'lhnitismail@gmail.com',
+              value: 'chaymaeharmak25@gmail.com',
             ),
             const SizedBox(height: 12),
             _buildContactOption(
               icon: Icons.phone_rounded,
               title: 'Par téléphone',
-              value: '+212 771 321 789',
+              value: '+212 658-426 264',
             ),
             const SizedBox(height: 12),
           ],
